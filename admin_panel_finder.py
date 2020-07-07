@@ -29,6 +29,7 @@ def findAdmin():
 		else:
 			print "OK => ",req_link
 
+
 def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#   +++ Admin Panel Finder v1 +++   #"
